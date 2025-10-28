@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(241, 110, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#second_elmnt{
+    color: blue;
+    font-size: 36px;
+}
+.third_elmnt{
+font-size: 24px;
+}
+#fourth_elmnt{
+    background-color: rgb(128, 186, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
